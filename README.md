@@ -18,7 +18,8 @@
 
 ### General Computer Science Skills
 - MySQL
-- ...
+- Virtualization
+  - Hyper-V
 
 ### Currently Working On
 - Android Development
@@ -27,9 +28,13 @@
 
 
 ### Robotics Program
-- Attended 6 VEX competitions this year
+- Attended 6 VEX competitions this year with 750E and 750Z
   - Out of the 6, competed in 1 (SBHS)
   - (Millburn (Twice), TCNJ, CCTS, SBHS, NJ States)
+- Role
+  - Wrote code for driver control
+  - Contributed to autonomous section
+
 
 ```
 Syntax highlighted code block
