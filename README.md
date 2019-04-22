@@ -10,7 +10,7 @@
 ### Programming Libraries/Frameworks
 - Selenium WebDriver (Python / Java)
 - Requests (Python)
-- JavaFX
+- JavaFX (Java)
 
 ### Vex Programming Libraries/Frameworks
 - Vex C++ Pro (subset of standard C++)
