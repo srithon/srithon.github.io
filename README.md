@@ -11,7 +11,6 @@ In the Robotics program, I am primarily a programmer.
 - Selenium WebDriver (Python / Java)
 - Requests (Python)
 - JavaFX
-- Java Swing
 
 ### Robotics-Related Programming Libraries/Frameworks
 - Vex C++ Pro (subset of standard C++)
@@ -23,7 +22,7 @@ In the Robotics program, I am primarily a programmer.
 
 ### Currently Working On
 - Android Development
-- Google Go (programming language)
+- Java Swing
 
 
 ```
