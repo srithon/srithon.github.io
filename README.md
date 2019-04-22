@@ -12,7 +12,7 @@
 - Requests (Python)
 - JavaFX
 
-### Robotics-Related Programming Libraries/Frameworks
+### Vex Programming Libraries/Frameworks
 - Vex C++ Pro (subset of standard C++)
 - PROS (C++ library)
 
