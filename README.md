@@ -1,6 +1,6 @@
-## Sridaran Thoniyil
+# Sridaran Thoniyil
 
-In the Robotics program, I am primarily a programmer.
+## Programmer for 750Z
 
 ### Programming Languages
 - Java
@@ -24,6 +24,12 @@ In the Robotics program, I am primarily a programmer.
 - Android Development
 - Java Swing
 
+
+
+### Robotics Program
+- Attended 6 VEX competitions this year
+  - Out of the 6, competed in 1 (SBHS)
+  - (Millburn (Twice), TCNJ, CCTS, SBHS, NJ States)
 
 ```
 Syntax highlighted code block
