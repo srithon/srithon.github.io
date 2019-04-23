@@ -1,4 +1,4 @@
-# **Sridaran Thoniyil - 750Z Programmer**
+## **Sridaran Thoniyil - 750Z Programmer**
 
 ### Programming Languages
 - Java
