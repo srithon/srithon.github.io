@@ -35,11 +35,13 @@
   - Wrote code for driver control
   - Contributed to autonomous section
 
-![Image](/Me.jpg)  
-**Picture of me coding at a 750E meeting**  
+| ![Image](/Me.jpg) | 
+|:--:| 
+| *Picture of me coding at a 750E meeting* |
 
-![Image](/Team.jpg)  
-**Picture of 750Z at the SBHS Robotics Banquet**  
+| ![Image](/Team.jpg) | 
+|:--:| 
+| *Picture of 750Z at the SBHS Robotics Banquet* |
 
 ```
 Syntax highlighted code block
