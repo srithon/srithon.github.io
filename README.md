@@ -36,7 +36,7 @@
   - Contributed to autonomous section
 
 ![Image](/Me.jpg)
-\n**Picture of me coding at a 750E meeting**
+  **Picture of me coding at a 750E meeting**
 ![Image](/Team.jpg)
 **Picture of 750Z at the SBHS Robotics Banquet**
 
