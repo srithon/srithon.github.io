@@ -26,6 +26,10 @@
 - Java Swing
 
 
+| ![Image](/Me.jpg) | 
+|:--:| 
+| *Picture of me coding at a 750E meeting* |
+
 
 ### Robotics Program
 - Attended 6 VEX competitions this year with 750E and 750Z
@@ -38,17 +42,10 @@
   - Stop N Shop Fundraiser
   - Cub Scouts Demonstration
 
-<center>
-| ![Image](/Me.jpg) | 
-|:--:| 
-| *Picture of me coding at a 750E meeting* |
-</center>
 
 | ![Image](/Team.jpg) | 
 |:--:| 
 | *Picture of 750Z at the SBHS Robotics Banquet* |
-
-
 
 ```
 Syntax highlighted code block
