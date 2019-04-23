@@ -34,14 +34,21 @@
 - Role
   - Wrote code for driver control
   - Contributed to autonomous section
+- Community Outreach Events
+  - Stop N Shop Fundraiser
+  - Cub Scouts Demonstration
 
+<center>
 | ![Image](/Me.jpg) | 
 |:--:| 
 | *Picture of me coding at a 750E meeting* |
+</center>
 
 | ![Image](/Team.jpg) | 
 |:--:| 
 | *Picture of 750Z at the SBHS Robotics Banquet* |
+
+
 
 ```
 Syntax highlighted code block
