@@ -35,6 +35,7 @@
   - Wrote code for driver control
   - Contributed to autonomous section
 
+![Image](/Me.jpg)
 
 ```
 Syntax highlighted code block
