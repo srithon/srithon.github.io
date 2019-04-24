@@ -66,18 +66,15 @@
 
 <p><br/></p>
 
-### Robotics Program
-- Attended 6 VEX competitions this year with 750E and 750Z
-  - Out of the 6, competed in 1 (SBHS)
-  - (Millburn (Twice), TCNJ, CCTS, SBHS, NJ States)
-- Main Role
-  - Wrote code for driver control
-  - Contributed to autonomous section
-- Community Outreach Events
-  - Stop N Shop Fundraiser
-  - Cub Scouts Demonstration
-
-
-| ![Image](/Team.jpg) | 
-|:--:| 
-| *Picture of 750Z at the SBHS Robotics Banquet* |
+<h2 align = "center">Robotics Program</h2>
+<center>
+  - Attended 6 VEX competitions this year with 750E and 750Z
+    - Out of the 6, competed in 1 (SBHS)
+    - (Millburn (Twice), TCNJ, CCTS, SBHS, NJ States)
+  - Main Role
+    - Wrote code for driver control
+    - Contributed to autonomous section
+  - Community Outreach Events
+    - Stop N Shop Fundraiser
+    - Cub Scouts Demonstration
+</center>
