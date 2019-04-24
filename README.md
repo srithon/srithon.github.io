@@ -2,9 +2,11 @@
 
 <h2 align = "center">Programming Languages</h2>
 
+<center>
 <img src = "/java.png" width = "100" height = "100" align = "left" hspace = "10"/>
 <img src = "/python.png" width = "100" height = "100" align = "left" hspace = "10"/>
 <img src = "/c++.png" width = "100" height = "100" align = "left" hspace = "10"/>
+</center>
   
 <br>
 <br>
