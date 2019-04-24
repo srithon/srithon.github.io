@@ -24,7 +24,7 @@
 
 <center>
   <img src = "/vexc++pro.jpeg" width = "120" height = "60" align = "center" hspace = "10"/>
-  <img src = "/pros.svg" width = "120" height = "120" align = "center" hspace = "10"/>
+  <img src = "/pros.svg" width = "160" height = "160" align = "center" hspace = "10"/>
 </center>
                                                                                 
 <p><br/></p>                                                                          
