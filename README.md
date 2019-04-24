@@ -1,6 +1,6 @@
 ## **Sridaran Thoniyil - 750Z Programmer**
 
-### Programming Languages
+<h1 align = "center">Programming Languages</h1>
 - Java
 - Python
 - C++
