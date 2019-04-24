@@ -36,9 +36,11 @@
   <img src = "/hyper-v.png" width = "100" height = "100" align = "center" hspace = "10"/>
 </center>
 
-### Currently Working On
-- Android Development
-- Java Swing
+<h2 align = "center">Currently Working On</h2>
+
+<center>
+  <img src = "/android-logo.png" width = "160" height = "160" align = "center" hspace = "10"/>
+</center>
 
 
 | ![Image](/Me.jpg) | 
