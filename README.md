@@ -33,7 +33,7 @@
 - Attended 6 VEX competitions this year with 750E and 750Z
   - Out of the 6, competed in 1 (SBHS)
   - (Millburn (Twice), TCNJ, CCTS, SBHS, NJ States)
-- Role
+- Main Role
   - Wrote code for driver control
   - Contributed to autonomous section
 - Community Outreach Events
