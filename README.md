@@ -3,9 +3,9 @@
 <h2 align = "center">Programming Languages</h2>
 
 <center>
-<img src = "/java.png" width = "100" height = "100" align = "center" hspace = "10"/>
-<img src = "/python.png" width = "100" height = "100" align = "center" hspace = "10"/>
-<img src = "/c++.png" width = "100" height = "100" align = "center" hspace = "10"/>
+  <img src = "/java.png" width = "100" height = "100" align = "center" hspace = "10"/>
+  <img src = "/python.png" width = "100" height = "100" align = "center" hspace = "10"/>
+  <img src = "/c++.png" width = "100" height = "100" align = "center" hspace = "10"/>
 </center>
   
 <p><br/></p>
@@ -13,16 +13,21 @@
 <h2 align = "center">Programming Libraries/Frameworks</h2>
 
 <center>
-<img src = "/selenium.png" width = "100" height = "100" align = "center" hspace = "10"/>
-<img src = "/requests.png" width = "100" height = "100" align = "center" hspace = "10"/>
-<img src = "/javafx.png" width = "140" height = "100" align = "center" hspace = "10"/>
+  <img src = "/selenium.png" width = "100" height = "100" align = "center" hspace = "10"/>
+  <img src = "/requests.png" width = "100" height = "100" align = "center" hspace = "10"/>
+  <img src = "/javafx.png" width = "140" height = "100" align = "center" hspace = "10"/>
 </center>
 
 <p><br/></p>
 
-### Vex Programming Frameworks
-- Vex C++ Pro (subset of standard C++)
-- PROS (C++ library)
+<h2 align = "center">Vex Programming Frameworks</h2>
+
+<center>
+  <img src = "/vexc++pro.jpeg" width = "120", height = "60" align = "center" hspace = "10"/>
+  <img src = "/pros.svg" width = "90", height = "90" align = "center" hspace = "10/>
+</center>
+                                                                                
+<p><br/></p>                                                                          
 
 ### General Computer Science Skills
 - MySQL
