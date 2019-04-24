@@ -2,11 +2,11 @@
 
 <h1 align = "center">Programming Languages</h1>
 
-<p>
-  <img src = "/java.png" width = "200" height = "366" align = "left" hspace = "10"/>
-  <img src = "/python.png" width = "400" height = "400" align = "left" hspace = "10"/>
-  <img src = "/c++.png" width = "400" height = "400" align = "left" hspace = "10"/>
-</p>
+<img src = "/java.png" width = "200" height = "366" align = "left" hspace = "10"/>
+<img src = "/python.png" width = "400" height = "400" align = "left" hspace = "10"/>
+<img src = "/c++.png" width = "400" height = "400" align = "left" hspace = "10"/>
+  
+<br>
 
 <h1 align = "center">Programming Libraries/Frameworks</h1>
 - Selenium WebDriver (Python / Java)
