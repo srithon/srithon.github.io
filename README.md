@@ -48,7 +48,7 @@
 
 <center>
   <img src = "/android-logo.png" width = "160" height = "160" align = "center" hspace = "10"/>
-  <img src = "/haskell.png" width = "160" height = "160" align = "center" hspace = "10/>
+  <img src = "/haskell.png" width = "160" height = "160" align = "center" hspace = "10"/>
 </center>
 
 <p><br/></p>
