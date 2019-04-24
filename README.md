@@ -53,6 +53,8 @@
   <img src = "/rust.svg" width = "160" height = "160" align = "center" hspace = "10"/>
 </center>
 
+<p><br/></p>
+
 <center>
   <table>
     <tr>
