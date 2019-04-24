@@ -81,7 +81,7 @@
 
 <h2 align = "center">Robotics Program</h2>
 
-<ul>
+<ul align = "left">
   <li>Attended 6 VEX competitions this year with 750E and 750Z</li>
   <ul>
     <li>Out of the 6, competed in 1 (SBHS)</li>
