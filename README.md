@@ -21,7 +21,7 @@
 
 <center>
   <img src = "/selenium.png" title = "Selenium WebDriver" width = "100" height = "100" align = "center" hspace = "10"/>
-  <img src = "/requests.png" title = "Requests (Python) width = "100" height = "100" align = "center" hspace = "10"/>
+  <img src = "/requests.png" title = "Requests (Python)" width = "100" height = "100" align = "center" hspace = "10"/>
   <img src = "/javafx.png" title = "JavaFX" width = "140" height = "100" align = "center" hspace = "10"/>
 </center>
 
