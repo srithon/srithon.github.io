@@ -59,7 +59,7 @@
       <image src = "/Me.jpg" align = "center"/>
     </tr>
     <tr>
-      <p><b>Picture of me coding at a 750E meeting</b> align = "center" </p>
+      <p><b>Picture of me coding at a 750E meeting</b></p>
     </tr>
   </table>
 </center>
