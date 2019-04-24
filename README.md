@@ -52,9 +52,16 @@
   <img src = "/rust.svg" width = "160" height = "160" align = "center" hspace = "10"/>
 </center>
 
-| ![Image](/Me.jpg) | 
-|:--:| 
-| *Picture of me coding at a 750E meeting* |
+<center>
+  <table>
+    <tr>
+      <image src = "/Me.jpg"/>
+    </tr>
+    <tr>
+      <p><b>Picture of me coding at a 750E meeting</b></p>
+    </tr>
+  </table>
+</center>
 
 
 ### Robotics Program
