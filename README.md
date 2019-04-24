@@ -3,7 +3,7 @@
 
 <center>
   <p>
-    My name is Sridaran Thoniyil and during the 2018-2019 robotics season, I was one of the programmers on 750Z, one of the two "shadow teams." The shadow teams consisted of freshmen in the robotics program, and they acted as learning grounds so that the new people could have the opportunity to learn on their own instead of watching established teams operate on their own.
+    My name is Sridaran Thoniyil and during the 2018-2019 robotics season, I was one of the programmers on 750Z, one of the two "shadow teams." The shadow teams consisted of freshmen in the robotics program, and they acted as learning grounds so that the new people could have the opportunity to learn on their own instead of watching established teams operate on their own.<br/>Outside of robotics, my hobbies include playing the trumpet and expanding upon my computer science knowledge.
   </p>
 <p><br/></p>
 
