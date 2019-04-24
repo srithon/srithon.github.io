@@ -11,9 +11,11 @@
 <p><br/></p>
 
 <h2 align = "center">Programming Libraries/Frameworks</h2>
-- Selenium WebDriver (Python / Java)
-- Requests (Python)
-- JavaFX (Java)
+<img src = "/selenium.png" width = "100" height = "100" align = "center" hspace = "10/>
+<img src = "/requests.png" width = "100" height = "100" align = "center" hspace = "10/>
+<img src = "/javafx.png" width = "100" height = "100" align = "center" hspace = "10/>
+
+<p><br/></p>
 
 ### Vex Programming Frameworks
 - Vex C++ Pro (subset of standard C++)
