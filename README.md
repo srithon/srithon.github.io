@@ -23,16 +23,18 @@
 <h2 align = "center">Vex Programming Frameworks</h2>
 
 <center>
-  <img src = "/vexc++pro.jpeg" width = "120", height = "60" align = "center" hspace = "10"/>
-  <img src = "/pros.svg" width = "90", height = "90" align = "center" hspace = "10/>
+  <img src = "/vexc++pro.jpeg" width = "120" height = "60" align = "center" hspace = "10"/>
+  <img src = "/pros.svg" width = "90" height = "90" align = "center" hspace = "10/>
 </center>
                                                                                 
 <p><br/></p>                                                                          
 
-### General Computer Science Skills
-- MySQL
-- Virtualization
-  - Hyper-V
+<h2 align = "center">General Computer Science Skills</h2>
+
+<center>
+  <img src = "/mysql.png" width = "100" height = "100" align = "center" hspace = "10"/>
+  <img src = "/hyper-v.png" width = "100" height = "100" align = "center" hspace = "10"/>
+</center>
 
 ### Currently Working On
 - Android Development
