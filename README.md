@@ -66,7 +66,19 @@
 
 <p><br/></p>
 
+<center>
+  <table>
+    <tr>
+      <image src = "/Team.jpg" align = "center"/>
+    </tr>
+    <tr>
+      <p><b>750Z at the SBHS robotics banquet</b></p>
+    </tr>
+  </table>
+</center>
+
 <h2 align = "center">Robotics Program</h2>
+
 - Attended 6 VEX competitions this year with 750E and 750Z
   - Out of the 6, competed in 1 (SBHS)
   - (Millburn (Twice), TCNJ, CCTS, SBHS, NJ States)
