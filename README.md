@@ -36,6 +36,8 @@
   <img src = "/hyper-v.png" width = "100" height = "100" align = "center" hspace = "10"/>
 </center>
 
+<p><br/></p>
+
 <h2 align = "center">Currently Working On</h2>
 
 <center>
