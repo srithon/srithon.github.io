@@ -1,11 +1,12 @@
 <h2 align = "center"><em>Sridaran Thoniyil - 750Z Programmer</em></h2>
 
 <h1 align = "center">Programming Languages</h1>
+
 <img src = "/java.png" width = "100" height = "183" align = "left" hspace = "10"/>
 <img src = "/python.png" width = "100" height = "100" align = "left" hspace = "10"/>
-<img src = "/c++.png" width = "100" height = "100" align = "left" hspace = "10"/>
+<img src = "/c++.png" width = "100" height = "100" align = "left" hspace = "10"/>  
 
-### Programming Libraries/Frameworks
+<h1 align = "center">Programming Libraries/Frameworks</h1>
 - Selenium WebDriver (Python / Java)
 - Requests (Python)
 - JavaFX (Java)
