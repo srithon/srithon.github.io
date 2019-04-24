@@ -1,4 +1,5 @@
 <h1 align = "center"><b>Sridaran Thoniyil - 750Z Programmer</b></h1>
+<p><br/></p>
 
 <center>
   <p>
@@ -63,6 +64,7 @@
   </table>
 </center>
 
+<p><br/></p>
 
 ### Robotics Program
 - Attended 6 VEX competitions this year with 750E and 750Z
