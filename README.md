@@ -1,9 +1,7 @@
-## **Sridaran Thoniyil - 750Z Programmer**
+<h2 align = "center"><em>Sridaran Thoniyil - 750Z Programmer</em></h2>
 
 <h1 align = "center">Programming Languages</h1>
-- Java
-- Python
-- C++
+<img src = "/java.png"></img><img src = "/python.png"></img><img src = "/c++.png"></img>
 
 ### Programming Libraries/Frameworks
 - Selenium WebDriver (Python / Java)
