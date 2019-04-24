@@ -10,9 +10,9 @@
 <h2 align = "center">Programming Languages</h2>
 
 <center>
-  <img src = "/java.png" width = "100" height = "100" align = "center" hspace = "10"/>
-  <img src = "/python.png" width = "100" height = "100" align = "center" hspace = "10"/>
-  <img src = "/c++.png" width = "100" height = "100" align = "center" hspace = "10"/>
+  <img src = "/java.png" title = "Java" width = "100" height = "100" align = "center" hspace = "10"/>
+  <img src = "/python.png" title = "Python" width = "100" height = "100" align = "center" hspace = "10"/>
+  <img src = "/c++.png" title = "C++" width = "100" height = "100" align = "center" hspace = "10"/>
 </center>
   
 <p><br/></p>
@@ -20,9 +20,9 @@
 <h2 align = "center">Programming Libraries/Frameworks</h2>
 
 <center>
-  <img src = "/selenium.png" width = "100" height = "100" align = "center" hspace = "10"/>
-  <img src = "/requests.png" width = "100" height = "100" align = "center" hspace = "10"/>
-  <img src = "/javafx.png" width = "140" height = "100" align = "center" hspace = "10"/>
+  <img src = "/selenium.png" title = "Selenium WebDriver" width = "100" height = "100" align = "center" hspace = "10"/>
+  <img src = "/requests.png" title = "Requests (Python) width = "100" height = "100" align = "center" hspace = "10"/>
+  <img src = "/javafx.png" title = "JavaFX" width = "140" height = "100" align = "center" hspace = "10"/>
 </center>
 
 <p><br/></p>
@@ -30,8 +30,8 @@
 <h2 align = "center">Vex Programming Frameworks</h2>
 
 <center>
-  <img src = "/vexc++pro.jpeg" width = "120" height = "60" align = "center" hspace = "10"/>
-  <img src = "/pros.svg" width = "140" height = "140" align = "center" hspace = "10"/>
+  <img src = "/vexc++pro.jpeg" title = "Vex C++ Pro" width = "120" height = "60" align = "center" hspace = "10"/>
+  <img src = "/pros.svg" title = "PROS V5" width = "140" height = "140" align = "center" hspace = "10"/>
 </center>
                                                                                 
 <p><br/></p>                                                                          
@@ -39,8 +39,8 @@
 <h2 align = "center">General Computer Science Skills</h2>
 
 <center>
-  <img src = "/mysql.png" width = "100" height = "100" align = "center" hspace = "10"/>
-  <img src = "/hyper-v.png" width = "100" height = "100" align = "center" hspace = "10"/>
+  <img src = "/mysql.png" title = "MySQL" width = "100" height = "100" align = "center" hspace = "10"/>
+  <img src = "/hyper-v.png" title = "Hyper-V" width = "100" height = "100" align = "center" hspace = "10"/>
 </center>
 
 <p><br/></p>
@@ -48,9 +48,9 @@
 <h2 align = "center">Currently Working On</h2>
 
 <center>
-  <img src = "/android-logo.png" width = "160" height = "160" align = "center" hspace = "10"/>
-  <img src = "/haskell.png" width = "160" height = "160" align = "center" hspace = "10"/>
-  <img src = "/rust.svg" width = "200" height = "200" align = "center" hspace = "10"/>
+  <img src = "/android-logo.png" title = "Android" width = "160" height = "160" align = "center" hspace = "10"/>
+  <img src = "/haskell.png" title = "Haskell" width = "160" height = "160" align = "center" hspace = "10"/>
+  <img src = "/rust.svg" title = "Rust" width = "200" height = "200" align = "center" hspace = "10"/>
 </center>
 
 <p><br/></p>
