@@ -56,7 +56,7 @@
 <p><br/></p>
 
 <center>
-  <table>
+  <table border = "2">
     <tr>
       <image src = "/Me.jpg" align = "center"/>
     </tr>
@@ -69,7 +69,7 @@
 <p><br/></p>
 
 <center>
-  <table>
+  <table border = "2">
     <tr>
       <image src = "/Team.jpg" align = "center"/>
     </tr>
