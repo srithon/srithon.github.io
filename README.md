@@ -99,7 +99,8 @@
 
 <p><br/></p>
 
-'''
+'''  
+
 //Sridaran Thoniyil, Saurav Suresh  
 
 void pidTurn(float deg) {
@@ -152,7 +153,8 @@ void pidTurn(float deg) {
     }
 
     pros::lcd::set_text(line++, "Current Position - " + std::to_string(currentTicks));
-}
+}  
+
 '''
 
 <p><br/></p>
