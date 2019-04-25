@@ -82,20 +82,20 @@
 <h2 align = "center">Robotics Program</h2>
 
 <ul align = "left">
-  <li>Attended 6 VEX competitions this year with 750E and 750Z</li>
-  <ul>
-    <li>Out of the 6, competed in 1 (SBHS)</li>
-    <li>(Millburn (Twice), TCNJ, CCTS, SBHS, NJ States)</li>
+  <li align = "left">Attended 6 VEX competitions this year with 750E and 750Z</li>
+  <ul align = "left">
+    <li align = "left">Out of the 6, competed in 1 (SBHS)</li>
+    <li align = "left" >(Millburn (Twice), TCNJ, CCTS, SBHS, NJ States)</li>
   </ul>
-  <li>Main Role</li>
-  <ul>
-    <li>Wrote code for driver control</li>
-    <li>Contributed to autonomous section</li>
+  <li align = "left">Main Role</li>
+  <ul align = "left">
+    <li align = "left">Wrote code for driver control</li>
+    <li align = "left">Contributed to autonomous section</li>
   </ul>
-  <li>Community Outreach Events</li>
-  <li>Stop N Shop Fundraiser</li>
-  <li>Cub Scouts Demonstration</li>
-<ul>  
+  <li align = "left">Community Outreach Events</li>
+  <li align = "left">Stop N Shop Fundraiser</li>
+  <li align = "left">Cub Scouts Demonstration</li>
+</ul>  
 <br/>  
 <h2 align = "center">Personal Project - CodeEncryptor</h2>
 <p>This was an application I wrote during the robotics season to encrypt code before publishing it to our public GitHub repository. While that was the original intent, it became clear that using it for that purpose would have been unnecessary and inconvenient. However, the application can still be used to encrypt other files.<br/>At the moment, the method of encryption is not secure enough to be used for important documents, as I came up with it only as a learning experience. However, I am working towards replacing it with an industry-standard encryption algorithm such as AES-256.<br/></p>
