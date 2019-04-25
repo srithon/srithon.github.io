@@ -100,4 +100,6 @@
 <h2 align = "center">Personal Project - CodeEncryptor</h2>
 <p>This was an application I wrote during the robotics season to encrypt code before publishing it to our public GitHub repository. While that was the original intent, it became clear that using it for that purpose would have been unnecessary and inconvenient. However, the application can still be used to encrypt other files.<br/>At the moment, the method of encryption is not secure enough to be used for important documents, as I came up with it only as a learning experience. However, I am working towards replacing it with an industry-standard encryption algorithm such as AES-256.<br/></p>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bi8tS71rItM?rel=0&amp;showinfo=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<center>
+  <iframe width="560" height="315" align = "center" src="https://www.youtube.com/embed/bi8tS71rItM?rel=0&amp;showinfo=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</center>
