@@ -96,66 +96,21 @@
   <li align = "left">Stop N Shop Fundraiser</li>
   <li align = "left">Cub Scouts Demonstration</li>
 </ul>  
-<br/>  
 
-<code>
-	//Saurav Suresh, Sridaran Thoniyil  
-	
-	void pidTurn(float deg)
-	{
-	  float arcLength = 2.0 * BOT_RADIUS * PI * (deg / 360.0f);
-	  float rot = (arcLength/(4.0f*PI)) * (ENCODER_TICKS_PER_ROTATION); //ticks
+<p><br/></p>
 
-	  pros::lcd::set_text(3, "Rotation In Encoder Ticks - " + std::to_string(rot));
+<center>
+  <table border = "2">
+    <tr>
+      <image src = "/pidcode.png" align = "center"/>
+    </tr>
+    <tr>
+      <p><b>Code snippet for PID turning</b></p>
+    </tr>
+  </table>
+</center>
 
-		float desiredTicks = rot; //ticks - WAS NEGATIVE
-		float currentTicks = 0; //ticks
-
-		float lastError = 0;
-		float error = 0;
-		float errorSum = 0;
-
-		float rateErrorChange;
-
-		std::int16_t motorSpinVelocity;
-
-	  resetMotorRotations();
-
-	  //short iter = 0;
-	  int line = 4;
-
-		while (std::abs(error) > 0.01)
-		{
-			currentTicks = std::abs(rightMF->get_position());//getPosition(true);
-
-			//proportional
-			error = (desiredTicks - currentTicks); //encoder ticks
-
-			//integral
-			if (errorSum < integralMax)
-				errorSum += error;
-			else
-				errorSum = integralMax;
-
-			//derivative
-			rateErrorChange = (error - lastError);// / 16;//(getChangeInTime());
-
-			motorSpinVelocity = static_cast<std::int16_t>((error * kP) + (errorSum * kI) + (rateErrorChange * kD));
-
-	    rightMF->move_velocity(motorSpinVelocity);
-	    rightMB->move_velocity(motorSpinVelocity);
-	    leftMF->move_velocity(-motorSpinVelocity); //check sign
-	    leftMB->move_velocity(-motorSpinVelocity); //check sign
-
-			lastError = error;
-
-			pros::delay(2);
-		}
-
-	  pros::lcd::set_text(line++, "Current Position - " + std::to_string(currentTicks));
-	}
-</code>
-<p align = "center">Code snippet for PID turning<br/></p>
+<p><br/></p>
 
 <h2 align = "center">Personal Project - CodeEncryptor</h2>
 <p>This was an application I wrote during the robotics season to encrypt code before publishing it to our public GitHub repository. While that was the original intent, it became clear that using it for that purpose would have been unnecessary and inconvenient. However, the application can still be used to encrypt other files.<br/>At the moment, the method of encryption is not secure enough to be used for important documents, as I came up with it only as a learning experience. However, I am working towards replacing it with an industry-standard encryption algorithm such as AES-256.<br/></p>
