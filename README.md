@@ -99,7 +99,7 @@
 <br/>  
 
 <code>
-	//Saurav Suresh, Sridaran Thoniyil<br/>
+	//Saurav Suresh, Sridaran Thoniyil<br/>  
 	void pidTurn(float deg)
 	{
 	  float arcLength = 2.0 * BOT_RADIUS * PI * (deg / 360.0f);
