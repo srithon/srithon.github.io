@@ -97,5 +97,4 @@
   <li>Cub Scouts Demonstration</li>
 <ul>
   
-<p><br/></p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/a0L1AUo-1AY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/bi8tS71rItM?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
