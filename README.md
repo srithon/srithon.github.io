@@ -79,7 +79,7 @@
   </table>
 </center>
 
-<h2 align = "center">Robotics Program</h2>
+<h2 align = "center">Robotics Program</h2>  
 
 <ul align = "left">
   <li align = "left">Attended 6 VEX competitions this year with 750E and 750Z</li>
