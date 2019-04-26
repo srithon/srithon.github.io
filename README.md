@@ -84,8 +84,8 @@
 <ul align = "left">
   <li align = "left">Attended 6 VEX competitions this year with 750E and 750Z</li>
   <ul align = "left">
-    <li align = "left">Out of the 6, competed in 1 (SBHS)</li>
     <li align = "left" >(Millburn (Twice), TCNJ, CCTS, SBHS, NJ States)</li>
+    <li align = "left">Out of the 6, competed in 1 (SBHS)</li>
   </ul>
   <li align = "left">Main Role</li>
   <ul align = "left">
