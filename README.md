@@ -120,5 +120,18 @@
 </center>
 
 <p><br/></p>  
+
+<h2 align = "center">Courses Taken</h2>
+<ul>
+  <li>Computer Science in the 21st Century (2017-2018)</li>
+  <li>AP Computer Science A (2018-2019)</li>
+  <li>Online Courses
+    <ul>
+      <li href = "https://www.udacity.com/course/intro-to-html-and-css--ud001">Intro to HTML and CSS (2019)</li>
+    </ul>
+  </li>
+</ul>
+
+<p><br/></p>  
   
 <h2 align = "center">Contact Me At <em>Sri7Thon@gmail.com</em></h2>
