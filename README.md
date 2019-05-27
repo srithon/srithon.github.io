@@ -123,11 +123,11 @@
 
 <h2 align = "center">Courses Taken</h2>
 <ul>
-  <li>Computer Science in the 21st Century (2017-2018)</li>
-  <li>AP Computer Science A (2018-2019)</li>
-  <li>Online Courses
+  <li align = "left">Computer Science in the 21st Century (2017-2018)</li>
+  <li align = "left">AP Computer Science A (2018-2019)</li>
+  <li align = "left">Online Courses
     <ul>
-      <li href = "https://www.udacity.com/course/intro-to-html-and-css--ud001">Intro to HTML and CSS (2019)</li>
+      <li align = "left"><a href = "https://www.udacity.com/course/intro-to-html-and-css--ud001">Intro to HTML and CSS (2019)</a></li>
     </ul>
   </li>
 </ul>
