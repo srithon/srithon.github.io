@@ -128,6 +128,7 @@
   <li align = "left">Online Courses
     <ul>
       <li align = "left"><a href = "https://www.udacity.com/course/intro-to-html-and-css--ud001">Intro to HTML and CSS (2019)</a></li>
+      <li align = "left"><a href = "https://www.udacity.com/course/writing-readmes--ud777">Writing READMEs</a></li>
     </ul>
   </li>
 </ul>
