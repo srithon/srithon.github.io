@@ -13,7 +13,7 @@
   <img src = "/java.png" title = "Java" width = "100" height = "100" align = "center" hspace = "10"/>
   <img src = "/python.png" title = "Python" width = "100" height = "100" align = "center" hspace = "10"/>
   <img src = "/c++.png" title = "C++" width = "100" height = "100" align = "center" hspace = "10"/>
-  <img src = "/c-logo.png" title = "Objective C" width = "100" height = "100" align = "center" hspace = "10"/>
+  <img src = "/c.png" title = "Objective C" width = "100" height = "100" align = "center" hspace = "10"/>
 </center>
   
 <p><br/></p>
