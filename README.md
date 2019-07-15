@@ -128,8 +128,8 @@
   <li align = "left">AP Computer Science A (2018-2019)</li>
   <li align = "left">Online Courses
     <ul>
+      <li align = "left"><a href = "https://www.coursera.org/learn/cs-algorithms-theory-machines/">Computer Science: Algorithms, Theory and Machines (2019)</a></li>
       <li align = "left"><a href = "https://www.udacity.com/course/intro-to-html-and-css--ud001">Intro to HTML and CSS (2019)</a></li>
-      <li align = "left"><a href = "https://www.coursera.org/learn/cs-algorithms-theory-machines/">Computer Science: Algorithms, Theory and Machines</a></li>
     </ul>
   </li>
 </ul>
