@@ -29,6 +29,12 @@ section {
     text-align: center;
 }
 
+figcaption {
+    text-align: center;
+    font-size: 1.25em;
+    margin-bottom: 20vh;
+}
+
 #main-block {
     margin: 5% 10%;
 
@@ -37,6 +43,10 @@ section {
 
 #personal-project {
     border-bottom-width: 0px;
+}
+
+#demo {
+    
 }
 
 .background {
