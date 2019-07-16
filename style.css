@@ -1,25 +1,25 @@
 body {
-    background-color: blanchedalmond;
-    font-size: 1.5em;
+    background-color: cadetblue;
+    font-size: 1em;
 }
 
 section {
     padding: 2.5% 5%;
-    margin-bottom: 2%;
-    margin-left: 10%;
-    margin-right: 10%;
 
     color: black;
 
-    border: 2px
-     solid goldenrod;
+    border-bottom-style: solid;
+    border-bottom-color: darkorchid;
+    border-bottom-width: 3px;
 
     font-size: 1.5em;
-    background-color: blueviolet;
+    background-color: darksalmon;
 }
 
-#about-me {
-    margin-top: 5%;
+#main-block {
+    margin: 5% 10%;
+
+    border: 2px solid yellowgreen;
 }
 
 .background {
