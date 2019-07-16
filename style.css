@@ -1,5 +1,5 @@
 body {
-    background-color: cadetblue;
+    background-color: crimson;
     font-size: 1em;
 }
 
@@ -13,7 +13,20 @@ section {
     border-bottom-width: 3px;
 
     font-size: 1.5em;
-    background-color: darksalmon;
+    background-color: blanchedalmond;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+}
+
+.container > img {
+    margin: 0vw 2vw;
+}
+
+.heading {
+    text-align: center;
 }
 
 #main-block {
@@ -22,7 +35,11 @@ section {
     border: 2px solid yellowgreen;
 }
 
+#personal-project {
+    border-bottom-width: 0px;
+}
+
 .background {
-    color: coral;
+    color: black;
 }
 
