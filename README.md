@@ -130,6 +130,7 @@
     <ul>
       <li align = "left"><a href = "https://www.coursera.org/learn/cs-algorithms-theory-machines/">Computer Science: Algorithms, Theory and Machines (2019)</a></li>
       <li align = "left"><a href = "https://www.udacity.com/course/intro-to-html-and-css--ud001">Intro to HTML and CSS (2019)</a></li>
+      <li align = "left"><a href = "https://www.coursera.org/learn/algorithms-part1/">Algorithms, Part I (2019)</a></li>
     </ul>
   </li>
 </ul>
